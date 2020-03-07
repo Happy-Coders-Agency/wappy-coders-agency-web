@@ -1,15 +1,25 @@
 {
-  "name": "happy-coders-agency-web",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "9.2.2",
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
-  }
+    "name": "happy-coders-agency-web",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.27",
+        "@fortawesome/free-brands-svg-icons": "^5.12.1",
+        "@fortawesome/free-solid-svg-icons": "^5.12.1",
+        "@fortawesome/react-fontawesome": "^0.1.9",
+        "@zeit/next-sass": "^1.0.1",
+        "bulma": "^0.8.0",
+        "next": "9.2.2",
+        "node-sass": "^4.13.1",
+        "react": "16.13.0",
+        "react-dom": "16.13.0"
+    },
+    "devDependencies": {
+        "prettier": "^1.19.1"
+    }
 }

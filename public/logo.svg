@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <svg version="1.1"
+     baseProfile="full"
+     width="445" height="300"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            @font-face {
+                font-family: "Patua One";
+                src: url("data:application/font-woff;charset=utf-8;base64,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") format("woff2");
+            }
+            text {
+                font-family: 'Patua One';
+            }
+        </style>
+    </defs>
+     <circle fill="#8F3BDE" cx="212" cy="42" id="svg_1" r="6" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="212" y1="42" x2="177" y2="70"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="212" y1="42" x2="253" y2="56"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="212" y1="42" x2="222" y2="84"/>
+
+     <circle fill="#8F3BDE" cx="177" cy="70" id="svg_2" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="177" y1="70" x2="222" y2="84"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="177" y1="70" x2="162" y2="113"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="177" y1="70" x2="199" y2="117"/>
+     <circle fill="#DABDF5" cx="177" cy="70" r="7" />
+
+     <circle fill="#8F3BDE" cx="253" cy="56" id="svg_3" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="253" y1="56" x2="222" y2="84"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="253" y1="56" x2="273" y2="85"/>
+     <circle fill="#A471D5" cx="253" cy="56" r="8" />
+
+     <circle fill="#8F3BDE" cx="222" cy="84" id="svg_4" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="222" y1="84" x2="273" y2="85"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="222" y1="84" x2="199" y2="117"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="222" y1="84" x2="250" y2="128"/>
+     <circle fill="#4E0E8B" cx="222" cy="84" r="9" />
+
+     <circle fill="#8F3BDE" cx="273" cy="85" id="svg_5" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="273" y1="85" x2="250" y2="128"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="273" y1="85" x2="283" y2="130"/>
+
+     <circle fill="#8F3BDE" cx="162" cy="113" id="svg_6" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="162" y1="113" x2="167" y2="165"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="162" y1="113" x2="199" y2="117"/>
+
+     <circle fill="#8F3BDE" cx="199" cy="117" id="svg_7" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="199" y1="117" x2="167" y2="165"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="199" y1="117" x2="220" y2="164"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="199" y1="117" x2="250" y2="128"/>
+     <circle fill="#A471D5" cx="199" cy="117" r="8" />
+
+     <circle fill="#8F3BDE" cx="250" cy="128" id="svg_8" r="10" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="250" y1="128" x2="283" y2="130"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="250" y1="128" x2="220" y2="164"/>
+     <line stroke="#8F3BDE" stroke-width="4" x1="250" y1="128" x2="263" y2="178"/>
+
+     <circle fill="#8F3BDE" cx="283" cy="130" id="svg_9" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="283" y1="130" x2="263" y2="178"/>
+     <circle fill="#DABDF5" cx="283" cy="130" r="7" />
+
+     <circle fill="#8F3BDE" cx="167" cy="165" id="svg_10" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="167" y1="165" x2="220" y2="164"/>
+     <circle fill="#4E0E8B" cx="167" cy="165" r="9" />
+
+     <circle fill="#8F3BDE" cx="220" cy="164" id="svg_11" r="8" />
+     <line stroke="#8F3BDE" stroke-width="4" x1="220" y1="164" x2="263" y2="178"/>
+     <circle fill="#DABDF5" cx="220" cy="164" r="7" />
+
+     <circle fill="#8F3BDE" cx="263" cy="178" id="svg_12" r="8" />
+     <circle fill="#4E0E8B" cx="263" cy="178" r="9" />
+
+    <text x="220" y="220" font-size="40" text-anchor="middle" fill="White">Happy Coders Agency</text>
+
+</svg>
