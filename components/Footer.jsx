@@ -1,4 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import {
     faTwitterSquare,
     faFacebookSquare,
@@ -30,6 +31,16 @@ const Footer = () => (
                         </a>
                     </span>
                 </div>
+                <div className="column is-1-desktop">
+                    <span className="social-media-link">
+                        <a href="mailto:info@happycoders.agency">
+                            <FontAwesomeIcon icon={faEnvelope} />
+                        </a>
+                    </span>
+                </div>
+            </div>
+            <div className="columns is-centered has-text-grey-light is-size-6">
+                Copyright &copy; 2020 Happy Coders Agency. All rights reserved.
             </div>
         </div>
         <style jsx>{`

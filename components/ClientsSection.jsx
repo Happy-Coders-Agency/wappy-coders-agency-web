@@ -10,7 +10,7 @@ const ClientSection = () => (
                         Are you interested in beoming a client of us? Please
                         fill in this&nbsp;
                         <a
-                            href="https://forms.gle/1Tk2wVWgViYb6MTM9"
+                            href="https://forms.gle/qxxx47qKTueHFGZq7"
                             target="_blank">
                             form
                         </a>

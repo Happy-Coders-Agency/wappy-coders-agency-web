@@ -46,7 +46,9 @@ const NavBar = () => {
                 <div className="navbar-end">
                     <div className="navbar-item">
                         <div className="buttons">
-                            <a className="button is-primary is-small">
+                            <a
+                                className="button is-primary is-small"
+                                href="https://forms.gle/qxxx47qKTueHFGZq7">
                                 <strong>Sign up</strong>
                             </a>
                         </div>
