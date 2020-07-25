@@ -8,6 +8,7 @@ import ClientSection from '../components/ClientsSection';
 import Footer from '../components/Footer';
 
 import '../styles/main.scss';
+import PartnerSection from '../components/PartnerSection';
 
 const Home = () => (
     <Fragment>
@@ -16,6 +17,7 @@ const Home = () => (
         <TypeWriterHeader />
         <ManifestoSection />
         <ClientSection />
+        <PartnerSection />
         <Footer />
     </Fragment>
 );
