@@ -14,7 +14,7 @@ const ManifestoSection = () => (
                             fantastic opportunity for you&quot;
                         </div>
                         <Motivation />
-                        <div className="section manifesto">
+                        <div id="manifesto" className="section manifesto">
                             <Manifesto />
                         </div>
                         <div className="section process">
