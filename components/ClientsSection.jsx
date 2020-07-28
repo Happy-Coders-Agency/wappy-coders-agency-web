@@ -11,7 +11,8 @@ const ClientSection = () => (
                         fill in this&nbsp;
                         <a
                             href="https://forms.gle/qxxx47qKTueHFGZq7"
-                            target="_blank">
+                            target="_blank"
+                            rel="noreferer">
                             form
                         </a>
                         , and we will contact you within 24 hours.

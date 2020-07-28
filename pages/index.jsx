@@ -12,6 +12,13 @@ import PartnerSection from '../components/PartnerSection';
 
 const Home = () => (
     <Fragment>
+        <Head>
+            <title>Happy Coders Agency</title>
+            <meta
+                name="description"
+                content="An agency for developers that tries to get our clients as happy as they can be, making their career as great as it can get as a coder"
+            />
+        </Head>
         <NavBar />
         <TitleHeader />
         <TypeWriterHeader />
