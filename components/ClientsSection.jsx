@@ -1,3 +1,5 @@
+import ClientServices from '../content/ClientServices.mdx';
+
 const ClientSection = () => (
     <section className="section">
         <div className="container">
@@ -16,6 +18,25 @@ const ClientSection = () => (
                             form
                         </a>
                         , and we will contact you within 24 hours.
+                    </div>
+                    <div className="content">
+                        <p>So what can we do for you?</p>
+                        <ul>
+                            <li>
+                                Analyze your CV and give suggestions on
+                                improvements
+                            </li>
+                            <li>Help you with writing job applications</li>
+                            <li>Coach you before an interview</li>
+                            <li>
+                                Let you redirect annoying recruiters{' '}
+                                <a href="/representation">here</a>
+                            </li>
+                            <li>
+                                Just be a friendly face in the chaotic world,
+                                that is our business
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
