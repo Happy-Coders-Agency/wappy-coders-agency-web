@@ -7,16 +7,25 @@ const PartnerSection = () => (
                         Partner Companies
                     </h1>
                     <div className="content">
-                        We are working with a large number of companies in our
-                        network, but with some companies we have a very close
-                        relationship. The list below is the companies we see as
-                        partners to Happy Coders Agency. If you'd like to
-                        explore what it means to be a partner to us, please send
-                        us an e-mail at&nbsp;
-                        <a href="mailto:partner@happycoder.agency">
-                            partner@happycoder.agency
-                        </a>
-                        .
+                        <p>
+                            We are collaborating with a large number of
+                            companies, but with some companies we have a very
+                            close relationship, partners. Partners benefit from
+                            our agency in a much deeper fashion. With partners
+                            we try to capture the soul of the company, so we
+                            will be able to quickly tell if a certain client
+                            would be a good fit at that company. This result in
+                            partner companies can spend much less time screening
+                            candidates, as this has already been done by us.
+                        </p>
+                        <p>
+                            If you'd like to explore what it means to be a
+                            partner to us, please send us an e-mail at&nbsp;
+                            <a href="mailto:partner@happycoder.agency">
+                                partner@happycoder.agency
+                            </a>
+                            .
+                        </p>
                     </div>
                 </div>
             </div>
