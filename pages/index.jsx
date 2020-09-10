@@ -9,6 +9,7 @@ import Footer from '../components/Footer';
 
 import '../styles/main.scss';
 import PartnerSection from '../components/PartnerSection';
+import { BeataNotification } from '../components/BetaNotification';
 
 const Home = () => (
     <Fragment>
@@ -19,6 +20,7 @@ const Home = () => (
                 content="An agency for developers that tries to get our clients as happy as they can be, making their career as great as it can get as a coder"
             />
         </Head>
+        <BeataNotification />
         <NavBar />
         <TitleHeader />
         <TypeWriterHeader />

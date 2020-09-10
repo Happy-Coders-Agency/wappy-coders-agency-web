@@ -26,23 +26,26 @@ const ClientSection = () => (
                         </p>
                         <ul>
                             <li>
+                                First and foremost, be your agent, i e make the
+                                best out of your career possible
+                            </li>
+                            <li>
                                 Analyze your CV and give suggestions on
                                 improvements
                             </li>
                             <li>Help you with writing job applications</li>
                             <li>Coach you before an interview</li>
                             <li>
-                                Let you redirect annoying recruiters{' '}
+                                Let you redirect annoying recruiters
                                 <a href="/representation">here</a>
                             </li>
-                            <li>Prepare you for a negotiation of salary</li>
+                            <li>
+                                Prepare you for a negotiation of salary or
+                                benifits
+                            </li>
                             <li>
                                 Give advice if you decides to start your own
                                 business
-                            </li>
-                            <li>
-                                Just be a friendly face in the chaotic world,
-                                that is our business
                             </li>
                             <li>
                                 We're working on more services like group
