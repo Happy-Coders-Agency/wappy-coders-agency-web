@@ -36,7 +36,8 @@ const ClientSection = () => (
                             <li>Help you with writing job applications</li>
                             <li>Coach you before an interview</li>
                             <li>
-                                Let you redirect annoying recruiters
+                                Act as a shield against annoying recruiters. You
+                                could refere them&nbsp;
                                 <a href="/representation">here</a>
                             </li>
                             <li>

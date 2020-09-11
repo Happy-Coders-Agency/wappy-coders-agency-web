@@ -8,21 +8,21 @@ const PartnerSection = () => (
                     </h1>
                     <div className="content">
                         <p>
-                            We are collaborating with a large number of
-                            companies, but with some companies we have a very
-                            close relationship, partners. Partners benefit from
-                            our agency in a much deeper fashion. With partners
-                            we try to capture the soul of the company, so we
-                            will be able to quickly tell if a certain client
-                            would be a good fit at that company. This result in
-                            partner companies can spend much less time screening
-                            candidates, as this has already been done by us.
+                            We try to build long time partnership, not only with
+                            our clients, but with companies that have clients
+                            working there or looking to recruit developers. With
+                            our company partners we try to capture the soul of
+                            the company, firstly to be able to move much quicker
+                            in a recruitment process (The goal is to eliminate
+                            the need of screening and initial interviews).
+                            Secondly to further inform us what companies can do
+                            to make coders happy.
                         </p>
                         <p>
                             If you'd like to explore what it means to be a
-                            partner to us, please send us an e-mail at&nbsp;
-                            <a href="mailto:partner@happycoder.agency">
-                                partner@happycoder.agency
+                            company partner , please send us an e-mail at&nbsp;
+                            <a href="mailto:partner@happycoders.agency">
+                                partner@happycoders.agency
                             </a>
                             .
                         </p>
