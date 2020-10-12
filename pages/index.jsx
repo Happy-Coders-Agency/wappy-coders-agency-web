@@ -10,6 +10,7 @@ import Footer from '../components/Footer';
 import '../styles/main.scss';
 import PartnerSection from '../components/PartnerSection';
 import { BeataNotification } from '../components/BetaNotification';
+import WhoAreWeSection from '../components/WhoAreWeSection';
 
 const Home = () => (
     <Fragment>
@@ -27,6 +28,7 @@ const Home = () => (
         <ManifestoSection />
         <ClientSection />
         <PartnerSection />
+        <WhoAreWeSection />
         <Footer />
     </Fragment>
 );

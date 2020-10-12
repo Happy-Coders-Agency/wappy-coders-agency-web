@@ -7,7 +7,7 @@ const ClientSection = () => (
                         Clients
                     </h1>
                     <div className="content">
-                        Are you interested in beoming a client of us? Please
+                        Are you interested in becoming a client of us? Please
                         fill in this&nbsp;
                         <a
                             href="https://forms.gle/qxxx47qKTueHFGZq7"
